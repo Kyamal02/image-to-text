@@ -1,5 +1,6 @@
-streamlit==1.23.0
-torch>=2.0.0
+streamlit==1.25.0
+torch==2.0.1
 transformers==4.31.0
 timm==0.6.13
-Pillow>=9.0.0
+Pillow==9.5.0
+tokenizers==0.13.3
