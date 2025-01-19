@@ -6,7 +6,8 @@
 
 import pytest
 from PIL import Image
-from main import load_model, generate_caption  # Импортируем из main.py
+
+from main.main import load_model, generate_caption
 
 
 @pytest.fixture(scope="session")
